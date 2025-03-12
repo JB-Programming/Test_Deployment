@@ -1,7 +1,7 @@
 import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
-const apiUrl ="http://127.0.0.1:8000/"//"/choreo-apis/awbo/backend/rest-api-be2/v1.0";
+const apiUrl ="chk_eyJjb25uZWN0aW9uLWlkIjoiMDFlZmZmOTEtOTgyOS0xZWQ2LTk0NWUtNDEzZjg2NDY4OWJjIn0=uYpwQg";
 
 
 const api = axios.create({

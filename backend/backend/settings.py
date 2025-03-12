@@ -151,7 +151,3 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWS_CREDENTIALS = True
-
-CORS_ALLOWED_ORIGINS = [
-    "https://0b839d38-843a-490c-823f-f8b7abfe0434.e1-us-east-azure.choreoapps.dev"
-]

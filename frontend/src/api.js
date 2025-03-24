@@ -1,7 +1,7 @@
 import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
-const apiUrl ="https://fce46a47-ef26-48db-a34e-6ef557d6db01-dev.e1-eu-north-azure.choreoapis.dev/django-react/backend/v1.0/";
+const apiUrl ="https://jhillmann.pythonanywhere.com/";
 
 
 const api = axios.create({
